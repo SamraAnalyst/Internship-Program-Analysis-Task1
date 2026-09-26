@@ -5,8 +5,7 @@ This project is completed as part of my Data Analyst Internship at Internee.pk.
 ### Project Objective:
 The goal of this task is to analyze enrollment, completion, and dropout trends across different internship training domains using computing tools.
 
-![Dashboard Preview](<img width="2000" height="1414" alt="Task_1_output" src="https://github.com/user-attachments/assets/d52ef112-cdd0-4d7e-993c-b9a5d830d5dc" />
-)
+![Dashboard Preview](Task_1_output.png)
 
 
 
