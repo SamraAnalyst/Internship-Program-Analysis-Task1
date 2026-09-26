@@ -5,6 +5,8 @@ This project is completed as part of my Data Analyst Internship at Internee.pk.
 ### Project Objective:
 The goal of this task is to analyze enrollment, completion, and dropout trends across different internship training domains using computing tools.
 
+![Dashboard Preview](<img width="944" height="661" alt="Bar_Pie Chart" src="https://github.com/user-attachments/assets/f528a416-c065-4912-a51f-d2e00f84b7c6" />
+)
 ### Tech Stack Used:
 * **Python** (Core Data Basics)
 * **Pandas** (For structuring rows and columns into DataFrames)
